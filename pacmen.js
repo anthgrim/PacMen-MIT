@@ -3,8 +3,8 @@ let pos = 0;
 let direction = 0;
 const pacMen = []; // This array holds all the pacmen
 const pacArray = [
-  ["PacMan1.png", "PacMan2.png"],
-  ["PacMan3.png", "PacMan4.png"],
+  ["images/PacMan1.png", "images/PacMan2.png"],
+  ["images/PacMan3.png", "images/PacMan4.png"],
 ];
 
 function setToRandom(scale) {
